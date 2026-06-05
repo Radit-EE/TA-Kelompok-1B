@@ -41,7 +41,7 @@ Analisis dilakukan menggunakan beberapa teknik visualisasi data dengan bantuan l
 Hitung rata-rata emisi karbon (CO2_EMISSIONS) berdasarkan tipe bahan bakar (FUEL). Tampilkan dalam Bar Chart.
 
 <p align="center">
-  <img src="Grafik A.png" width="750">
+  <img src="images/Grafik A.png" width="750">
 </p>
 
 

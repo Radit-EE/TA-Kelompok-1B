@@ -41,7 +41,7 @@ Analisis dilakukan menggunakan beberapa teknik visualisasi data dengan bantuan l
 Hitung rata-rata emisi karbon (CO2_EMISSIONS) berdasarkan tipe bahan bakar (FUEL). Tampilkan dalam Bar Chart.
 
 <p align="center">
-  <img src="images/Grafik A.png" width="750">
+  <img src="Grafik A.png" width="750">
 </p>
 
 
@@ -54,7 +54,7 @@ Hitung rata-rata emisi karbon (CO2_EMISSIONS) berdasarkan tipe bahan bakar (FUEL
 Cari jenis kendaraan (VEHICLE CLASS) dengan tingkat konsumsi bahan bakar (FUEL_CONSUMPTION*) paling hemat. Tampilkan perbandingan efisiensinya dalam Horizontal Bar Chart.
 
 <p align="center">
-  <img src="" width="750">
+  <img src="Grafik B.png" width="750">
 </p>
 
 ---
@@ -66,7 +66,7 @@ Cari jenis kendaraan (VEHICLE CLASS) dengan tingkat konsumsi bahan bakar (FUEL_C
 Analisis hubungan antara ukuran mesin (ENGINE_SIZE) terhadap jumlah emisi karbon (CO2_EMISSIONS). Tampilkan dalam Scatter Plot.
 
 <p align="center">
-  <img src="" width="750">
+  <img src="Grafik C.png" width="750">
 </p>
 
 ---
@@ -78,7 +78,7 @@ Analisis hubungan antara ukuran mesin (ENGINE_SIZE) terhadap jumlah emisi karbon
 Deteksi pencilan (outlier) dari nilai emisi karbon (CO2_EMISSIONS) khusus untuk kendaraan bermerek 'ACURA'. Tampilkan dalam Boxplot.
 
 <p align="center">
-  <img src="" width="750">
+  <img src="Grafik D.png" width="750">
 </p>
 
 ---

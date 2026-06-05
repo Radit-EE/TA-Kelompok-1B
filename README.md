@@ -1,8 +1,16 @@
-# Analisis dan Visualisasi Data Call Report
+# Analisis dan Visualisasi Data CO2 Emissions by Car
 
 ## Deskripsi Proyek
 
-Proyek ini bertujuan untuk melakukan eksplorasi dan visualisasi data Call Report guna memperoleh insight mengenai pola layanan, tren panggilan, distribusi data, serta hubungan antar variabel.
+Proyek ini bertujuan untuk melakukan eksplorasi, analisis, dan visualisasi data mengenai **Emisi CO2 pada Kendaraan (CO2 Emissions by Car)**. Melalui proyek ini, kami mengkaji bagaimana berbagai karakteristik teknis kendaraan memengaruhi jumlah karbondioksida (CO2) yang dilepaskan ke atmosfer. 
+
+Analisis difokuskan pada hubungan antara emisi CO2 dengan variabel-variabel kunci seperti:
+* **Ukuran Mesin (Engine Size / Displacement):** Menilai apakah kapasitas mesin yang lebih besar selalu menghasilkan emisi yang lebih tinggi.
+* **Jumlah Silinder:** Memahami pengaruh konfigurasi mesin terhadap efisiensi pembakaran.
+* **Jenis Bahan Bakar (Fuel Type):** Membandingkan dampak lingkungan antara penggunaan bensin (gasoline), diesel, maupun ethanol.
+* **Konsumsi Bahan Bakar:** Menganalisis korelasi tingkat keborosan bahan bakar di area perkotaan (*city*) dan jalan tol (*highway*) terhadap grafik emisi.
+
+Insight yang diperoleh dari proyek ini diharapkan dapat memberikan pemahaman yang lebih baik mengenai efisiensi kendaraan, membantu konsumen dalam memilih mobil ramah lingkungan, serta mendukung kebijakan pengurangan emisi karbon.
 
 Analisis dilakukan menggunakan beberapa teknik visualisasi data dengan bantuan library Python seperti:
 
@@ -32,6 +40,10 @@ Analisis dilakukan menggunakan beberapa teknik visualisasi data dengan bantuan l
 
 Hitung rata-rata emisi karbon (CO2_EMISSIONS) berdasarkan tipe bahan bakar (FUEL). Tampilkan dalam Bar Chart.
 
+<p align="center">
+  <img src="" width="750">
+</p>
+
 ---
 
 ## Kategori B (Tren/Filter)
@@ -39,6 +51,10 @@ Hitung rata-rata emisi karbon (CO2_EMISSIONS) berdasarkan tipe bahan bakar (FUEL
 **Penanggung Jawab:** Ghassan Iffat Ghaissan
 
 Cari jenis kendaraan (VEHICLE CLASS) dengan tingkat konsumsi bahan bakar (FUEL_CONSUMPTION*) paling hemat. Tampilkan perbandingan efisiensinya dalam Horizontal Bar Chart.
+
+<p align="center">
+  <img src="" width="750">
+</p>
 
 ---
 
@@ -48,6 +64,10 @@ Cari jenis kendaraan (VEHICLE CLASS) dengan tingkat konsumsi bahan bakar (FUEL_C
 
 Analisis hubungan antara ukuran mesin (ENGINE_SIZE) terhadap jumlah emisi karbon (CO2_EMISSIONS). Tampilkan dalam Scatter Plot.
 
+<p align="center">
+  <img src="" width="750">
+</p>
+
 ---
 
 ## Kategori D (Distribusi)
@@ -55,6 +75,10 @@ Analisis hubungan antara ukuran mesin (ENGINE_SIZE) terhadap jumlah emisi karbon
 **Penanggung Jawab:** Risqi Azka Dwi Saputra
 
 Deteksi pencilan (outlier) dari nilai emisi karbon (CO2_EMISSIONS) khusus untuk kendaraan bermerek 'ACURA'. Tampilkan dalam Boxplot.
+
+<p align="center">
+  <img src="" width="750">
+</p>
 
 ---
 
@@ -64,3 +88,8 @@ Deteksi pencilan (outlier) dari nilai emisi karbon (CO2_EMISSIONS) khusus untuk 
 
 Menggabungkan seluruh grafik kategori A, B, C, dan D dalam satu tampilan visualisasi.
 
+<p align="center">
+  <img src="" width="750">
+</p>
+
+---

@@ -90,7 +90,7 @@ Deteksi pencilan (outlier) dari nilai emisi karbon (CO2_EMISSIONS) khusus untuk 
 Menggabungkan seluruh grafik kategori A, B, C, dan D dalam satu tampilan visualisasi.
 
 <p align="center">
-  <img src="Grafik 5 Gabungan.jpeg" width="750">
+  <img src="Grafik E Gabungan.jpeg" width="750">
 </p>
 
 ---

@@ -1,4 +1,4 @@
-# 📊 Analisis dan Visualisasi Data Call Report
+# 📊 Analisis dan Visualisasi Data CO2 Emissions by Car
 
 <div align="center">
 
@@ -15,9 +15,15 @@
 
 ## 📖 Deskripsi Proyek
 
-Proyek ini bertujuan untuk melakukan eksplorasi dan visualisasi data **Call Report** guna memperoleh insight mengenai pola layanan, tren panggilan, distribusi data, serta hubungan antar variabel.
+Proyek ini bertujuan untuk melakukan eksplorasi, analisis, dan visualisasi data mengenai **Emisi CO2 pada Kendaraan (CO2 Emissions by Car)**. Melalui proyek ini, kami mengkaji bagaimana berbagai karakteristik teknis kendaraan memengaruhi jumlah karbondioksida (CO2) yang dilepaskan ke atmosfer. 
 
-Analisis dilakukan menggunakan beberapa teknik visualisasi data dengan bantuan library Python seperti:
+Analisis difokuskan pada hubungan antara emisi CO2 dengan variabel-variabel kunci seperti:
+* **Ukuran Mesin (Engine Size / Displacement):** Menilai apakah kapasitas mesin yang lebih besar selalu menghasilkan emisi yang lebih tinggi.
+* **Jumlah Silinder:** Memahami pengaruh konfigurasi mesin terhadap efisiensi pembakaran.
+* **Jenis Bahan Bakar (Fuel Type):** Membandingkan dampak lingkungan antara penggunaan bensin (gasoline), diesel, maupun ethanol.
+* **Konsumsi Bahan Bakar:** Menganalisis korelasi tingkat keborosan bahan bakar di area perkotaan (*city*) dan jalan tol (*highway*) terhadap grafik emisi.
+
+Insight yang diperoleh dari proyek ini diharapkan dapat memberikan pemahaman yang lebih baik mengenai efisiensi kendaraan, membantu konsumen dalam memilih mobil ramah lingkungan, serta mendukung kebijakan pengurangan emisi karbon.
 
 ✨ Pandas
 ✨ NumPy
@@ -30,11 +36,11 @@ Analisis dilakukan menggunakan beberapa teknik visualisasi data dengan bantuan l
 
 | Nama                  | NIM             | Kontribusi                                 |
 | --------------------- | --------------- | ------------------------------------------ |
-| 🟦 **Radit** | [Isi NIM Di Sini] | Grafik Kategori A (Agregasi)               |
-| 🟩 **Ghassan** | [Isi NIM Di Sini] | Grafik Kategori B (Tren/Filter)            |
-| 🟨 **Felix** | [Isi NIM Di Sini] | Grafik Kategori C (Korelasi)               |
-| 🟧 **Rizky** | [Isi NIM Di Sini] | Grafik Kategori D (Distribusi)             |
-| 🟥 **Keitaro** | [Isi NIM Di Sini] | Grafik Gabungan (Dashboard Layout)         |
+| 🟦 **Rafie Radithya** | [21060125130093] | Grafik Kategori A (Agregasi)               |
+| 🟩 **Ghassan Iffat Ghaissan** | [21060125130063] | Grafik Kategori B (Tren/Filter)            |
+| 🟨 **Felix Tedja Gunawan** | [21060125130117] | Grafik Kategori C (Korelasi)               |
+| 🟧 **Risqi Azka Dwi Saputra** | [21060125130064] | Grafik Kategori D (Distribusi)             |
+| 🟥 **Keitaro Panglima Joshua Simanjuntak** | [21060125130090] | Grafik Gabungan         |
 
 ### 🤝 Kontribusi Bersama
 
